@@ -1,0 +1,4 @@
+Model Comparison Results
+Color Only Score: 0.4359
+Full Model Score: 0.4261
+Conclusion: Texture features did not significantly improve separation.

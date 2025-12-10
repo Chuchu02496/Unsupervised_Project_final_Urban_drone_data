@@ -1,0 +1,25 @@
+# Python Virtual Environments
+venv/
+env/
+.venv/
+.env/
+
+# Python Bytecode and Cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS Generated Files
+Thumbs.db
+.DS_Store
+
+# Dataset (Likely contains large image files)
+dataset/
+
+# Large Model Files (Common extensions, add/remove as needed)
+*.pt
+*.pth
+*.h5
+*.pkl
