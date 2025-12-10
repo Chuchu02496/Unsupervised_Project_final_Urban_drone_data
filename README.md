@@ -5,6 +5,7 @@
 ### Data Source (APA Citation)
 > Bulent Siyah, Arial Semantic Segmentation Drone Dataset [Data set].Kaggle
 > https://www.kaggle.com/datasets/bulentsiyah/semantic-drone-dataset, http://dronedataset.icg.tugraz.at
+> Donwload the data set and transfer all the drone images into the data/original_images folder.
 
 ### Backstory:
 Disaster relief operations often rely on rapid analysis of aerial imagery to identify accessible roads and damaged buildings. Analyzing these images manually is time-consuming and prone to error. I decided to create this unsupervised machine learning model to automate the segmentation of urban scenes, allowing for faster response times in critical situations. By grouping similar image patches based on color and texture, the model identifies distinct regions without the need for extensive labeled training data.
